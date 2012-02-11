@@ -9,9 +9,12 @@
 ![screenshot](https://github.com/downloads/bindiry/MovingBlogbusToSinaBlog/screenshot.png "screenshot")
 
 ### 更新：
-**2010.1.28** 
+
+**2010.1.28**
+
 不小心发现新浪博客在用户的博客feed中偷偷加入了这样一句话：“想保证博客的稳定与信息安全吗？快来，一键备份博客大巴文章到新浪博客！请[点击进入](http://control.blog.sina.com.cn/admin/blogmove/blogmove.php?bsptype=blogbus)~”。
 显然新浪博客这事做得不光彩，推荐用官方的搬家工具。
 
-**2011.7.9** 
+**2011.7.9**
+
 经网友nikivv的反馈，新浪博客官方的搬家工具失效，所以针对博客大巴导出问题和新浪博客登录页面所做的调整。今晚对搬家工具进行了修正，更新1.1版本。
