@@ -8,7 +8,7 @@
 4. 导入前需要在新浪博客建好原博客分类。
 5. 导入前需要先到博客大巴的博客设置中把日志的xml文件导出。
 
-![screenshot](https://github.com/downloads/bindiry/MovingBlogbusToSinaBlog/screenshot.png "screenshot")
+![screenshot](https://cloud.github.com/downloads/bindiry/MovingBlogbusToSinaBlog/screenshot.png "screenshot")
 
 ### 更新：
 
